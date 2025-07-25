@@ -1,80 +1,47 @@
-# Hi, I'm Sumit 👋
+# Hi there, I'm Sumit 👋
 
-**Full‑Stack Engineer (5+ years)** with expertise in **Java (Spring Boot)**, **Vue.js**, and **microservices**.  
-I build scalable backend services, modernize legacy systems, and deliver reliable software with a strong focus on performance and Agile practices.
+## About Me
+I'm a **Full‑Stack Engineer** with 5+ years of experience building scalable, enterprise-grade applications.  
+Currently working as a **Senior Software Developer at Amiti Software Technologies**, contributing to the **Openlane‑IQ platform** (an off‑lease remarketing platform supporting 40+ automotive brands).  
 
----
+My focus areas include:
+- **Backend:** Java (Spring Boot), Spring Security, Microservices
+- **Frontend:** Vue.js, StencilJS, Responsive Design
+- **DevOps:** Azure DevOps CI/CD, Docker, Kubernetes (EKS)
+- **Practices:** Agile development, Test‑Driven Development (TDD), system optimization
 
-### 👨‍💻 Professional Summary
-At **Amiti Software Technologies**, I work on private‑label solutions for the **Openlane‑IQ platform**—an off‑lease remarketing platform supporting 40+ automotive brand programs.  
-
-Key highlights:
-- **Modernized legacy systems** and **built new scalable backend services**
-- Improved workflows, **reducing processing times by ~90%**
-- Designed **region‑aware APIs for Volkswagen and Audi Financial Services**
-- Hands-on experience with **TDD, CI/CD pipelines, Docker, Kubernetes**
-
-I enjoy solving complex engineering problems, collaborating across teams, and building systems that scale.
+I enjoy solving complex engineering problems, modernizing legacy systems, and working in collaborative Agile teams.
 
 ---
 
-### 🛠️ Skills & Technologies
-
-**Backend:**  
-`Java` · `Spring Boot` · `Microservices` · `OAuth2` · `REST APIs`
-
-**Frontend:**  
-`Vue 2` · `React` · `StencilJS` · `HTML5/CSS3` · `Responsive Web Design`
-
-**DevOps & Cloud:**  
-`Docker` · `Kubernetes` · `Azure DevOps Pipelines` · `Grafana` · `Honeycomb`
-
-**Other:**  
-`CI/CD` · `TDD` · `Agile`
+## Highlights
+- **Modernization:** Migrated legacy JSP pages to Vue 2, improving performance and developer velocity.
+- **Microservices:** Built and maintained Spring Boot microservices and micro‑frontends for private-label solutions.
+- **Performance:** Designed region-aware APIs for vehicle‑status updates, **reducing processing time by ~90%**.
+- **CI/CD & DevOps:** Collaborated with SRE teams to standardize pipelines and containerize deployments.
+- **Mentorship:** Knowledge transfer, documentation, and onboarding support for cross-functional teams.
 
 ---
 
-### 💼 Experience
+## Tech Stack
 
-**Senior Software Developer – Amiti Software Technologies**  
-_Jun 2024 – Present | Remote (Bengaluru, India)_  
-- Lead new feature delivery and modernization for the lease‑end statement platform  
-- Architected a **region‑aware API** for Volkswagen/Audi FS to update vehicle status  
-  – Reduced processing time from 48 s to 2–5 s (≈90% improvement)  
-- Mentored junior engineers and contributed to **technical documentation and PoCs**  
+**Languages & Frameworks**  
+Java • Spring Boot • Spring Security • JavaScript • Vue.js • StencilJS
 
-**Software Developer – Amiti Software Technologies**  
-_Jul 2020 – Jun 2024_  
-- Built a **Spring Boot microservice** and **StencilJS micro‑frontend** for lease‑end workflows  
-- Migrated **JSP modules to Vue 2**, improving platform performance  
-- Designed and implemented a **shared theming system** for Nissan, Infiniti, Mitsubishi labels  
-- Standardized CI/CD pipelines with **Azure DevOps** and automated deployments  
-- Integrated 3rd‑party tools to modernize dealer-facing features
+**DevOps & Tools**  
+Docker • Kubernetes (EKS / OpenShift) • Azure DevOps • GitHub • Grafana • Honeycomb
+
+**Practices**  
+Microservices • CI/CD • Agile • TDD • System Optimization
 
 ---
 
-### 🎓 Education
-
-- **MCA (Master of Computer Applications)** – TACT, Bhubaneswar (2017–2019)  
-- **B.Sc. (Information Science & Telecommunication)** – Ravenshaw University (2014–2017)
-
----
-
-### 🏅 Certifications
-
-- **The Frontend Developer Career Path** – Scrimba (2025)  
-- **Career Essentials in GitHub** – GitHub (2025)  
-- **Docker Foundations** – Docker, Inc. (2025)  
-- **Foundational C# with Microsoft** – freeCodeCamp (2024)
+## Education & Certifications
+- **MCA**, Trident Academy of Creative Technology, Bhubaneswar
+- **B.Sc. (Information Science & Telecommunication)**, Ravenshaw University
+- Docker Foundations • GitHub Professional Certificate • Frontend Developer Career Path (Scrimba)
 
 ---
 
-### 📫 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sumit-dash-panigrahi)
-- Email: 
-- Portfolio Website: _coming soon_
-
----
-
-> “Clean, scalable systems. Continuous learning. Collaborative engineering.”
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/sumit-dash-panigrahi/)
