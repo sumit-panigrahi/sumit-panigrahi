@@ -45,3 +45,7 @@ Microservices • CI/CD • Agile • TDD • System Optimization
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sumit-dash-panigrahi/)
+
+> **Note:** Most of my daily contributions are to private organization repositories (visible on my work account’s contribution graph).  
+> This profile highlights selective public work and learning projects; [see my work GitHub activity here](https://github.com/sumit-ol).
+
