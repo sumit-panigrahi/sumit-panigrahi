@@ -45,7 +45,7 @@
   
   ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-ol&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-panigrahi&layout=compact&theme=vue-dark&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-ol&layout=compact&theme=vue-dark&hide_border=true)
   
 </div>
 
