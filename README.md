@@ -39,16 +39,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit-ol&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-ol&layout=compact&theme=vue-dark&hide_border=true)
-  
-</div>
-
 ## 🏆 Key Achievements
 
 - 🚀 **Architected region-aware API** reducing processing time by ~90% and improving SLA compliance
@@ -72,10 +62,6 @@
 
 - **MCA** - Trident Academy of Creative Technology (2017-2019)
 - **B.Sc.(IST)** - Ravenshaw University (2014-2017)
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumit-ol&theme=vue&hide_border=true)
 
 ## 🤝 Let's Connect!
 
