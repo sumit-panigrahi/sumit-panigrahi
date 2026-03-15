@@ -1,3 +1,3 @@
-# Hi there, I'm Sumit Dash Panigrahi! 👋
+# Hi there, I'm Sumit! 👋
 
 
